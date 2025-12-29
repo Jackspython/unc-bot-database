@@ -1,3 +1,2 @@
-email1@gmail.com:password123
 email2@yahoo.com:pass456
 email3@hotmail.com:789pass
